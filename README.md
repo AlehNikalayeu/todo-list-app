@@ -4,7 +4,7 @@ Conquer Your Tasks! is a simple and convenient task management application desig
 
 ## Features
 
-- User-Friendly Interface:** Minimalistic design with a focus on usability.
+- **User-Friendly Interface:** Minimalistic design with a focus on usability.
 - **Task Management:** Easily add, edit, and delete tasks.
 - **Task Completion:** Mark tasks as completed to keep track of your progress.
 - **Edit Mode:** Quickly update task details.
